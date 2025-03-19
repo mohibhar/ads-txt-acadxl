@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/ads.txt"
+  to = "https://acadxl.netlify.app/ads.txt"
+  status = 301
+  force = true
